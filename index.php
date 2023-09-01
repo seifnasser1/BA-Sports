@@ -53,10 +53,13 @@
         <img src="img/logo.jpg" alt="Image">
         <div class="card-content">
             <h1>Welcome to BA Sports</h1>
-            <p>Mollitia placeat modi explicabo voluptatum corporis unde? Dicta, provident! Rem adipisci Mollitia placeat modi explicabo voluptatum corporis unde? Dicta, provident! Rem adipisci consectetur adipisicing elit. Deleniti possimus culpa nemo asperiores aperiam mollitia, maiores fugiat tempor Vero est aliquid nisi fugit.</p>
-            <h3>The Role Of The Spine</h3>
+            <p>Our team of knowledgeable and friendly staff is here to help you 
+            find the perfect needs for you. We pride ourselves on providing 
+            exceptional customer service, and we're always here to answer any 
+            questions you may have.</p>
+            <h3>Our Role</h3>
             <p>dolorum voluptatum assumenda aliquam ducimus aperiam explicabo similique. Nulla nobis neque esse laudantium, cum odit error quidem amet</p>
-            <h3>Practice Like The Pros</h3>
+            <h3>Practice like a pro</h3>
             <p>dolorum voluptatum assumenda aliquam ducimus aperiam explicabo similique. Nulla nobis neque esse laudantium, cum odit error quidem amet</p>
         </div>
     </div>
