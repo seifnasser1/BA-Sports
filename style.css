@@ -45,7 +45,7 @@ body {
 }
 
 .content-container {
-background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/images/b1.JPG);
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/logo.jpg);
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -110,3 +110,20 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(a
     max-width:80%;
     height: auto;
 }
+.card {
+background: #F5F5F5;
+display: flex;
+align-items: center;
+padding: 0px;
+border-radius: 0px;
+margin: 0px;
+}
+.card img {
+     max-width: 50%;
+     height: auto;
+     margin-right: 20px; /* Add spacing between image and text */
+ }
+
+.card-content {
+flex: 1; /* Allow text to take up remaining space */
+ }

@@ -9,7 +9,7 @@
 <body>
     <nav class="navbar">
         <div class="navbar-left">
-            <img src="assets/images/golf.png" alt="Logo">
+            <img src="img/logo.jpg" alt="Logo">
             <span>BA SPORTS</span>
         </div>
         <div class="navbar-right">
