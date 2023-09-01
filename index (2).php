@@ -9,7 +9,9 @@
 <body>
 <div class="content-container">
         <h1>Welcome to BA Sports</h1>
-        <p>Our team of knowledgeable and friendly staff is here to help you find the perfect needs for you. We pride ourselves on providing exceptional customer service, and we're always here to answer any questions you may have.</p>
+        <p>Our team of knowledgeable and friendly staff is here to help you 
+            find the perfect needs for you. We pride ourselves on providing 
+            exceptional customer service, and we're always here to answer any questions you may have.</p>
         <button>Contact Us</button>
 </div>
 <div class="image-container">
