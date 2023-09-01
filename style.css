@@ -1,0 +1,112 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+.navbar {
+    background-color: #7ba010;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.navbar-left {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-left img {
+    width: 40px; 
+    margin-right: 10px;
+}
+
+.navbar-right ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navbar-right li {
+    margin-right: 20px;
+}
+
+.navbar-right a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.navbar-left span {
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.content-container {
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/images/b1.JPG);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center; /* Center-align the text content */
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    align-items: center; /* Center horizontally */
+    justify-content: center;
+    height: 100vh;
+    margin: 0; /* Reset margin */
+}
+
+.content-container h1 {
+
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.content-container p {
+    font-size: 17px;
+    line-height: 30px;
+    max-width: 600px;
+    margin: 35px auto 30px;
+    color: #ddd;
+}
+
+.content-container button {
+    background-color: transparent;
+    border: 2px solid white; 
+     font-weight: bold;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+      transition: 0.3s;
+}
+
+
+.content-container button:hover {
+    background-color: #fff;
+    color: #7ba010;
+    
+}
+.image-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-card {
+    text-align: center;
+    margin: 30px; /* Reduced margin */
+    padding: 0px; /* Reduced padding */
+}
+
+.image-card img {
+    max-width:80%;
+    height: auto;
+}
