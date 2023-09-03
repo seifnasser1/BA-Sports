@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Navigation Bar</title>
+    <!-- <title>Navigation Bar</title> -->
 </head>
 <body>
     <nav class="navbar">
@@ -17,8 +17,8 @@
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
                 <li><a href="Services.php">Services</a></li>
-                <li><a href="#">Shop</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="">Shop</a></li>
+                <li><a href="contact.php">Contact</a></li>
             </ul>
         </div>
     </nav>

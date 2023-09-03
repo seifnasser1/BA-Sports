@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif;
 }
 .navbar {
-    background-color: #7ba010;
+    background-color: #781717;
     color: #fff;
     display: flex;
     justify-content: space-between;
@@ -92,7 +92,7 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(i
 
 .content-container button:hover {
     background-color: #fff;
-    color: #7ba010;
+    color: #781717;
     
 }
 .image-container {
@@ -143,7 +143,7 @@ flex: 1; /* Allow text to take up remaining space */
   font-size: 35px;
   position: relative;
   position: absolute;
-  background: #f5b000;
+  background: #908c8c;
   max-width: 500px;
   text-align: center;
   padding: 50px 35px;
@@ -176,7 +176,7 @@ flex: 1; /* Allow text to take up remaining space */
     height: 3px;
     bottom: -18px;
     right:45%;
-    background:#7ba010;
+    background:#781717;
     color: #000;
 }
 .space-line2{
@@ -185,7 +185,7 @@ flex: 1; /* Allow text to take up remaining space */
     height: 3px;
     bottom: -26px;
     right: 45%;
-    background: #f5b000;
+    background: #781717;
     color: #000;
 }
 .card-about{
@@ -193,7 +193,7 @@ flex: 1; /* Allow text to take up remaining space */
     max-width: 100%;
     margin-top: 40px;
     position: absolute;
-    background: #f5b000;
+    background: #908c8c;
     max-width: 500px;
     text-align: center;
     padding: 50px 35px;
@@ -214,7 +214,7 @@ flex: 1; /* Allow text to take up remaining space */
     font-size: 18px;
   line-height: 30px;
   margin-bottom: 10px;
-  color: #f5b000;
+  color: #908c8c;
   padding-bottom: 10px;
 }
 .h6-counter{
@@ -226,7 +226,7 @@ flex: 1; /* Allow text to take up remaining space */
 .span-counter {
     font-size: 35px;
     margin-bottom: 12px;
-    color: #7ba010;
+    color: #781717;
     line-height: 45px;
     font-weight: 700; }
 .row {
@@ -247,7 +247,7 @@ flex: 1; /* Allow text to take up remaining space */
 }
 .container-about-specs {
     padding: 70px 0px;
-    background: url(../images/b6.jpg) no-repeat center;
+    background: url(../img/b6.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -339,7 +339,7 @@ flex: 1; /* Allow text to take up remaining space */
         font-weight: normal;
     font-size: 15px;
     line-height: 20px;
-    color: #f5b000;
+    color: #908c8c;
     margin-top: 5px;
     margin-bottom: 10px;
     }
