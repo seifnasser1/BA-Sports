@@ -2,7 +2,7 @@
 <html>
 <head>
 
-    <title>Home</title>
+    <title>Shop</title>
     <link rel="stylesheet" href="style.css">
     <?php include"nav.php";  ?>
 </head>
